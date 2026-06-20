@@ -1,3 +1,9 @@
+### 💎 Code Quality (GitRoll)
+
+<a href="https://gitroll.io/profile/uZCZAbcaLSiX4upCxnMcxCjCdEYh2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uZCZAbcaLSiX4upCxnMcxCjCdEYh2?theme=light" alt="GitRoll Profile Badge"/></a>
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 🔥 **Streak Stats**
