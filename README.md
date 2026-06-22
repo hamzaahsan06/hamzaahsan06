@@ -28,9 +28,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahsan06&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%�;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Footer" />
-</p>
