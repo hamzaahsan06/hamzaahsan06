@@ -10,6 +10,11 @@
 
 ### 📊 GitHub Stats & Activity
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzaahsan06&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+</p>
+
 🔥 **Streak Stats**
 
 <p align="center">
@@ -19,8 +24,8 @@
 📈 **Profile Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzaahsan06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahsan06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=typescript" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hamzaahsan06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaahsan06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=typescript" />
 </p>
 
 🌊 **Contribution Graph**
