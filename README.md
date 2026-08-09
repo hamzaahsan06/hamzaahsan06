@@ -10,10 +10,6 @@
 
 ### 📊 GitHub Stats & Activity
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamzaahsan06&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
-</p>
 
 🔥 **Streak Stats**
 
