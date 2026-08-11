@@ -1,5 +1,3 @@
-### 💎 Code Quality (GitRoll)
-
 <p align="center">
   <a href="https://gitroll.io/profile/uZCZAbcaLSiX4upCxnMcxCjCdEYh2" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uZCZAbcaLSiX4upCxnMcxCjCdEYh2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
